@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Srinivas+Chodagiri;AI+%26+ML+Enthusiast;Python+Full+Stack+Developer;Passionate+Web+Developer;Always+Learning+New+Things+%F0%9F%92%A1&repeat=true&duration=2000&backSpeed=60&backDelay=1200" alt="Typing SVG" />
+</p>
   <!-- Main text group -->
   <g font-family="Fira Code, 'Courier New', monospace" filter="url(#shadow)" fill="url(#g)" text-anchor="start">
     <!-- Line 1 -->
@@ -19,14 +21,6 @@
         Passionate Web Developer · Always Learning New Things 💡
       </text>
     </g>
-
-    <!-- blinking cursor placed after the first line's end; its x animates slightly to follow -->
-    <rect id="cursor" x="360" y="38" width="8" height="20" rx="2" fill="#111">
-      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
-      <!-- small horizontal wiggle to match typing pace -->
-      <animateTransform attributeName="transform" type="translate" values="0 0;2 0;0 0" dur="0.6s" repeatCount="indefinite" />
-    </rect>
-  </g>
 
   <!-- Typing animations: animate clip widths to reveal text -->
   <animate
