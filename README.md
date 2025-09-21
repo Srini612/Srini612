@@ -15,7 +15,7 @@
 
 ### 🚀 Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,flask,git,github,oraclesql,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,flask,git,github,sql,vscode&theme=dark" />
 </p>
 
 ---
