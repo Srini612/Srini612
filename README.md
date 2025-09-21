@@ -28,11 +28,6 @@
 
 ---
 
-### 🎮 Fun Contribution Game  
-<p align="center">
-  <img src="https://github.com/DenverCoder1/github-readme-streak-stats/raw/main/animation.gif" width="600"/>
-</p>
-
 ---
 
 ### 🏆 GitHub Achievements  
