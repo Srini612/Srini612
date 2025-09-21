@@ -1,14 +1,45 @@
+<!-- Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Srinivas+Chodagiri;AI+%26+ML+Enthusiast;Python+Full+Stack+Developer;Passionate+Web+Developer;Always+Learning+New+Things+%F0%9F%92%A1&repeat=true&duration=2000&backSpeed=60&backDelay=1200" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Srinivas+Ch;Python+Full+Stack+Developer;Web+Development+Enthusiast;Building+Projects+with+Python+%7C+JS+%7C+SQL;Let's+Code+Something+Amazing!">
 </p>
-  <!-- Main text group -->
-  <g font-family="Fira Code, 'Courier New', monospace" filter="url(#shadow)" fill="url(#g)" text-anchor="start">
-    <!-- Line 1 -->
-    <g clip-path="url(#clip1)" transform="translate(40,60)">
-      <text x="0" y="0" font-size="28" font-weight="700">
-        Hi 👋, I'm Srinivas Chodagiri
-      </text>
-    </g>
+
+---
+
+### 🚀 About Me
+- 🔭 I’m working on **Fake Job Detection (ML + NLP)**
+- 🌱 Currently learning **Advanced Full Stack Development**
+- 💡 Passionate about **Python | Web Dev | Problem Solving**
+- 🎯 Goal: To become a **Pro Python Full Stack Engineer**
+
+---
+
+### 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,nodejs,flask,git,github,mysql,sqlite,vscode&theme=dark" />
+</p>
+
+---
+
+### ⚡ GitHub Stats & Streaks
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srini612&theme=radical&fire=DD2727&ring=FF6EC7&currStreakLabel=00FF00" alt="GitHub Streaks" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Srini612&show_icons=true&theme=radical&count_private=true" />
+</p>
+
+---
+
+### 🐍 Contribution Snake (Game)
+<p align="center">
+  <img src="https://github.com/Srini612/Srini612/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+### 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Srini612&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="views"/>
+</p>    </g>
     <!-- Line 2 -->
     <g clip-path="url(#clip2)" transform="translate(40,110)"  >
       <text x="0" y="0" font-size="20" font-weight="600">
