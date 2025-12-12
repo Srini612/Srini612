@@ -117,8 +117,9 @@
 
 ## 🏆 GitHub Achievements  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=srini612&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=srini612&theme=tokyonight&no-frame=true" />
 </p>
+
 
 
 ---
