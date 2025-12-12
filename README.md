@@ -116,9 +116,16 @@
 ---
 
 ## 🏆 GitHub Achievements  
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=srini612&theme=tokyonight&no-frame=true" />
+
+<img src="https://img.shields.io/badge/Commit%20Streak-Active-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Learning-Django%20%7C%20ML-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Coding%20Hours-Long%20Nights-red?style=for-the-badge" />
+
 </p>
+
 
 
 
